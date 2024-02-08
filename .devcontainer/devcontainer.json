@@ -10,6 +10,25 @@
 	},
 	"features": {
 		"ghcr.io/devcontainers/features/git:1": {}
+		
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-vscode-remote.vscode-remote-extensionpack", // Pacote de extensões Remote Development da Microsoft
+				"wholroyd.jinja", // Extensão Jinja para destaque de sintaxe
+				"ryu1kn.partial-diff", // Extensão Partial Diff para realce de diferenças de arquivos
+				"eamodio.gitlens", // Extensão GitLens para integração com o Git
+				"ms-vscode.cpptools", // Extensão C/C++ para suporte à linguagem C/C++
+				"donjayamanne.githistory", // Extensão Git History para visualizar o histórico do Git
+				"coenraads.bracket-pair-colorizer-2", // Extensão Bracket Pair Colorizer 2 para realce de pares de colchetes
+				"ms-azuretools.vscode-docker", // Extensão Docker para integração com contêineres Docker
+				"fortran-lang.fortran" // Extensão Fortran para suporte à linguagem Fortran
+			],
+			"settings": {
+				"workbench.colorTheme": "Visual Studio Dark"
+			}
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
