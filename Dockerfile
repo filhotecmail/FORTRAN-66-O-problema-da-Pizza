@@ -1,4 +1,4 @@
-FROM archlinux/base
+FROM archlinux
 
 # Atualize o sistema e instale as dependências necessárias
 RUN pacman -Syu --noconfirm && \
