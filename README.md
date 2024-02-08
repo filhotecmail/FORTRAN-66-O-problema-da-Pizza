@@ -4,7 +4,7 @@ Repositório criado para complementar o estudo da matemática básica, exemplifi
 # Ambiente
 
  - Sistema Operacional: Linux - ArchLinux
- - Compilador: GCC Fortran - GFortran
+ - Compilador: GCC Fortran
  - Linguagem: FORTRAN versão F66 
 
 # Enunciado
