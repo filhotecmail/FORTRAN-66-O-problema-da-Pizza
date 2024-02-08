@@ -39,3 +39,7 @@ Repositório criado para complementar o estudo da matemática básica, exemplifi
 
   Criar um sistema que ajude o operador de caixa a calcular o quanto cada pessoa tem que pagar por sua parcela na pizza, na conta do restaurante , seguindo o problema matemático da questão numero 2 do dia 15 de estudos da Matemática básica, aula de Frações e Equações.
 
+# O fluxo simplicifado
+
+![Alt text](image-3.png)
+
