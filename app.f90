@@ -35,6 +35,21 @@ PE = 1.0 - ( A + P + F + M )
 
 PRINT *, 'DE 100% DA PIZZA:'
 PRINT '(A, F6.2, A, F6.2, A, F6.2, A, F6.2, A, F6.2)', & 
-'ANDRE COMEU ', A * 100, '% DELA E PAGOU ', A * TOT, ' R$ '
+'ANDRE COMEU ', A * 100, '% DELA E PAGOU ', A * TOT, ' R$'
+PRINT '(A, F6.2, A, F6.2, A, F6.2, A, F6.2, A, F6.2)', &
+'PAULA COMEU ', P * 100, '% DELA E PAGOU ', P * TOT, ' R$'
+PRINT '(A, F6.2, A, F6.2, A, F6.2, A, F6.2, A, F6.2)', &
+'FERNANDO COMEU ', F * 100, '% DELA E PAGOU ', F * TOT, ' R$'
+PRINT '(A, F6.2, A, F6.2, A, F6.2, A, F6.2, A, F6.2)', &
+'MARIA COMEU ', M * 100, '% DELA E PAGOU ', M * TOT, ' R$'
+PRINT '(A, F6.2, A, F6.2, A, F6.2, A, F6.2, A, F6.2)', &
+'PEDRO COMEU ', PE * 100, '% DELA E PAGOU ', PE * TOT, ' R$'
+
+
+
+
+
+
+
 
 END PROGRAM DIVISAOCONTA
