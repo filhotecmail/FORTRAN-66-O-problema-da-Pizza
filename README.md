@@ -2,9 +2,10 @@
 Repositório criado para complementar o estudo da matemática básica, exemplificando questões de provas lógicas em fortran, para reforçar o estudo da matemática.
 
 # Ambiente
-  Sistema Operacional Linux - ArchLinux 
-  Compilador GCC Fortran - GFortran
-  Linguagem: FORTRAN versão F66 
+
+ - Sistema Operacional: Linux - ArchLinux
+ - Compilador: GCC Fortran - GFortran
+ - Linguagem: FORTRAN versão F66 
 
 # Enunciado
 
