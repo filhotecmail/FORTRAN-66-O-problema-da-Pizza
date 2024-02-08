@@ -15,8 +15,17 @@ Repositório criado para complementar o estudo da matemática básica, exemplifi
    gfortran -o app app.f90
 
    ./app
-   
+
    ``` 
+
+   # Observação
+
+     Caso você receba um erro ao tentar comitar na man , sobre o certificado , execute o comando abaixo
+
+     ```bash 
+     git config --global http.sslVerify false
+     
+     ```
 
 # Enunciado
 
