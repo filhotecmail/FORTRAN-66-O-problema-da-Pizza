@@ -27,6 +27,12 @@ Repositório criado para complementar o estudo da matemática básica, exemplifi
      
      ```
 
+# Forma mais simples 
+
+Se você estiver no seu desktop, EE abrir este repositório no seu navegador, você pode ir até o canto da branch main , clicar em codespace, ja deixei um codespace preparado para você.
+
+![Alt text](image-4.png)
+
 # Enunciado
 
 ![Alt text](image-1.png)
