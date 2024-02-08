@@ -23,7 +23,7 @@
 				"donjayamanne.githistory", // Extensão Git History para visualizar o histórico do Git
 				"coenraads.bracket-pair-colorizer-2", // Extensão Bracket Pair Colorizer 2 para realce de pares de colchetes
 				"ms-azuretools.vscode-docker", // Extensão Docker para integração com contêineres Docker
-				"fortran-lang.fortran" // Extensão Fortran para suporte à linguagem Fortran
+				"fortran-lang.fortran", // Extensão Fortran para suporte à linguagem Fortran
 			],
 			"settings": {
 				"workbench.colorTheme": "Visual Studio Dark"
