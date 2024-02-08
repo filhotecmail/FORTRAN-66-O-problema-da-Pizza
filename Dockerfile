@@ -1,11 +1,9 @@
-# Use a imagem base do Ubuntu
-FROM ubuntu:latest
+FROM archlinux/base
 
 # Atualize o sistema e instale as dependências necessárias
-RUN apt-get update && \
-    apt-get install -y gfortran && \
-    apt-get clean
+RUN pacman -Syu --noconfirm && \
+    pacman -S --noconfirm base-devel gcc-fortran
 
-# Defina o diretório de trabalho como /workspace
+# Defina o diretório de trabalho
 WORKDIR /workspace
 
