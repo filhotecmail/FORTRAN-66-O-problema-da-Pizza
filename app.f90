@@ -21,9 +21,9 @@
 
 PROGRAM DIVISAOCONTA
 
-REAL A,P,F,M PE, TOT, DESC
+REAL A,P,F,M, PE, TOT, DESC
 
-A = 1.0 / 5,0
+A = 1.0 / 5.0
 P = 1.0 / 3.0
 F = 1.0 / 8.0
 M = 1.0 / 6.0
@@ -31,10 +31,10 @@ M = 1.0 / 6.0
 TOT  = 75.00
 DESC = 3.00
 
-TOT = TOT - DESC
 PE = 1.0 - ( A + P + F + M )
 
 PRINT *, 'DE 100% DA PIZZA:'
-PRINT '(A, F6.2, A, F6.2, A, F6.2, A, F6.2, A, F6.2)', & 'ANDRE COMEU ', A * 100, '% DELA E PAGOU ', A * TOT, ' R$ '
+PRINT '(A, F6.2, A, F6.2, A, F6.2, A, F6.2, A, F6.2)', & 
+'ANDRE COMEU ', A * 100, '% DELA E PAGOU ', A * TOT, ' R$ '
 
 END PROGRAM DIVISAOCONTA

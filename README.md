@@ -7,6 +7,17 @@ Repositório criado para complementar o estudo da matemática básica, exemplifi
  - Compilador: GCC Fortran
  - Linguagem: FORTRAN versão F66 
 
+ # Funcionamento
+
+   Compilando a aplicação
+
+   ```bash
+   gfortran -o app app.f90
+
+   ./app
+   
+   ``` 
+
 # Enunciado
 
 ![Alt text](image-1.png)
